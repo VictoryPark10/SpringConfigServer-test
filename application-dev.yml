@@ -9,5 +9,4 @@ spring:
       server:
         git:
           uri: https://github.com/VictoryPark10/SpringConfigServer-test
-          search-paths: test-cloud-config-file/**
           default-label: master
