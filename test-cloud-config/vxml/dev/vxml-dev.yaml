@@ -2,12 +2,12 @@ db:
   cdbi:
     ems:
       driver: Altibase.jdbc.driver.AltibaseDriver
-      uri: jdbc:Altibase://125.144.147.76:20300/mydb
+      url: jdbc:Altibase://125.144.147.76:20300/mydb
       username: hello
       password: world
     dbs:
       driver: Altibase.jdbc.driver.AltibaseDriver
-      uri: jdbc:Altibase://125.144.147.79:20300/mydb
+      url: jdbc:Altibase://125.144.147.79:20300/mydb
       username: hello
       password: world
       
